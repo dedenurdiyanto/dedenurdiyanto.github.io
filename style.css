@@ -1,0 +1,21 @@
+nav,
+footer {
+  background-color: #de3163;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f1948a;
+}
+
+#experiences {
+  background-color: #f1948a;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer p a {
+  text-decoration: none;
+}
